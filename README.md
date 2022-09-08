@@ -1,4 +1,4 @@
-# TemplateIntrpolation Overview
+# Template Intrpolation Overview
 
 We generally use template interpolation feature to render text on the UI or could also pass objects to a component.
 

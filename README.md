@@ -1,4 +1,12 @@
-# TemplateIntrpolation
+# TemplateIntrpolation Overview
+
+We generally use template interpolation feature to render text on the UI or could also pass objects to a component.
+
+Angular also gives the ability to Override the interpolation brackets. As we know by default the template interpolator is “{{}}” in our templates.
+
+#Demo
+
+https://interpolation-template.netlify.app/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 

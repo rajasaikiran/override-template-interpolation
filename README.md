@@ -4,6 +4,10 @@ We generally use template interpolation feature to render text on the UI or coul
 
 Angular also gives the ability to Override the interpolation brackets. As we know by default the template interpolator is “{{}}” in our templates.
 
+here While defining a component, to override interpolation bracket, Angular provided interpolation as well as the metadata which can be pass and will override the default interpolation brackets.
+
+now we can override {{ }} with (( )) while doing interpolation in a component.
+
 #Demo
 
 https://interpolation-template.netlify.app/
